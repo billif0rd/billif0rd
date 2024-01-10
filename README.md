@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @billif0rd
 - 👀 I’m interested in 3d modeling
-- 🌱 I’m currently learning Rhino
+- 🌱 I’m currently learning Rhino (and how to use github)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I play Bard in LoL
 
